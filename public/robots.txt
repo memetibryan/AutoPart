@@ -1,0 +1,3 @@
+User Agent: *
+
+Sitemap: https://usedautoparts.pro/sitemap.xml
